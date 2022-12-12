@@ -1,5 +1,5 @@
 DATABASE setting:
-	+ Use file WarehouseManagementDB.dacpac to import the fully data in database
+	+ Use file WarehouseManagementDB_Backup.bacpac to import the fully data in database
 Login Account:
 	Admin Account:
 		Admin
